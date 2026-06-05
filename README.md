@@ -1,4 +1,5 @@
 ![Hall Effect Thruster — Magnetic Field Model](Banasset)
+
 [README.md](https://github.com/user-attachments/files/28595937/README.md)
 # Hall Effect Thruster (HET) — Research & Design Project
 
