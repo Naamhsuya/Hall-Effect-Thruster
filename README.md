@@ -5,6 +5,13 @@
 
 Scaling analysis, magnetostatic modeling, and CAD design of a Hall Effect Thruster, with an accompanying research manuscript currently under peer review at the **Journal of Engineering and Applied Sciences, Springer Nature**.
 
+![Status](https://img.shields.io/badge/Status-Research%20%2F%20Experimental-blue)
+![Power Class](https://img.shields.io/badge/Power%20Class-200W-orange)
+![Propellant](https://img.shields.io/badge/Propellant-Xenon-purple)
+![Tools](https://img.shields.io/badge/Tools-FEMM%20%7C%20SolidWorks-gray)
+![Under Review](https://img.shields.io/badge/Manuscript-Under%20Review%20%40%20Springer%20Nature-green)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+
 ---
 
 ## Repository Structure
