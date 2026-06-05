@@ -1,4 +1,4 @@
-![Hall Effect Thruster — Magnetic Field Model](Screenshot2026-03-31001319.png/banner.png)
+![Hall Effect Thruster — Magnetic Field Model](Banasset/banner.png)
 [README.md](https://github.com/user-attachments/files/28595937/README.md)
 # Hall Effect Thruster (HET) — Research & Design Project
 
