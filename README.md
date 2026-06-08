@@ -39,7 +39,23 @@ A 3D model of the thruster was developed in **SolidWorks** based on the scaled p
 
 ### 4. Gallery
 The `Gallery/` folder contains miscellaneous project visuals including simulation plots, design iterations, and reference images.
+<p align="center">
+  <img src="Gallery/Screenshot 2026-03-31 001319.png" width="45%" alt="FEMM Magnetic Field Topology"/>
+  &nbsp;&nbsp;
+  <img src="Gallery/WhatsApp Image 2026-03-14 at 23.33.11.jpeg" width="45%" alt="SolidWorks Section View"/>
+</p>
+<p align="center">
+  <em>Left: FEMM 2D axisymmetric magnetic field topology near channel exit &nbsp;|&nbsp; Right: SolidWorks section view of thruster assembly</em>
+</p>
 
+<p align="center">
+  <img src="Gallery/WhatsApp Image 2026-03-06 at 12.50.04.jpeg" width="45%" alt="Isometric CAD View"/>
+  &nbsp;&nbsp;
+  <img src="Gallery/Screenshot 2026-04-10 111342.png" width="45%" alt="Channel Length vs Magnetic Field Strength"/>
+</p>
+<p align="center">
+  <em>Left: Isometric external view of thruster assembly &nbsp;|&nbsp; Right: Channel length vs magnetic field strength regression</em>
+</p>
 ---
 
 ## Tools Used
